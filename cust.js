@@ -1,3 +1,7 @@
+<script src="https://unpkg.com/split-type"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.3/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.3/ScrollTrigger.min.js"></script>
+
 function initSimulation() {
   var Engine = Matter.Engine,
     Render = Matter.Render,
@@ -376,6 +380,8 @@ observer.observe(containerElement);
 
 
 
+
+// GSAP
 window.addEventListener("DOMContentLoaded", (event) => {
   // Split text into spans
   let typeSplit = new SplitType("[text-split]", {
