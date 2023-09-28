@@ -88,12 +88,12 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 220, 56, {
       }
     }
   });
-  var tagWordpress = Bodies.rectangle(containerWidth / 2 + 150, 460, 240, 56, {
+  var tagWordpress = Bodies.rectangle(containerWidth / 2 + 150, 460, 220, 56, {
     chamfer: { radius: radius },
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f47540055ab00edffa0a68_wordpress.svg",
+          "https://uploads-ssl.webflow.com/650c7848c9ee37cec2a1349d/65155b7cbeffa99b1007bae5_wow.svg",
         xScale: 1,
         yScale: 1
       }
