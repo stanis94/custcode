@@ -82,7 +82,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 220, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/650c7848c9ee37cec2a1349d/65155b7cbeffa99b1007bae5_wow.svg",
+          "https://uploads-ssl.webflow.com/650c7848c9ee37cec2a1349d/65155b7cbeffa99b1007bae5_wow.svg"+ '?' + Date.now(),
         xScale: 1,
         yScale: 1
       }
@@ -93,7 +93,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 220, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/650c7848c9ee37cec2a1349d/65155b7cbeffa99b1007bae5_wow.svg",
+          "https://uploads-ssl.webflow.com/650c7848c9ee37cec2a1349d/65155b7cbeffa99b1007bae5_wow.svg"+ '?' + Date.now(),
         xScale: 1,
         yScale: 1
       }
@@ -104,7 +104,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 220, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/650c7848c9ee37cec2a1349d/65155b7cbeffa99b1007bae5_wow.svg",
+          "https://uploads-ssl.webflow.com/650c7848c9ee37cec2a1349d/65155b7cbeffa99b1007bae5_wow.svg"+ '?' + Date.now(),
         xScale: 1,
         yScale: 1
       }
@@ -115,7 +115,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 220, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/650c7848c9ee37cec2a1349d/65155b7cbeffa99b1007bae5_wow.svg",
+          "https://uploads-ssl.webflow.com/650c7848c9ee37cec2a1349d/65155b7cbeffa99b1007bae5_wow.svg"+ '?' + Date.now(),
         xScale: 1,
         yScale: 1
       }
