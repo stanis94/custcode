@@ -104,7 +104,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 220, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f475405a7c8ff69c27ed37_webflow.svg",
+          "https://uploads-ssl.webflow.com/650c7848c9ee37cec2a1349d/65155b7cbeffa99b1007bae5_wow.svg",
         xScale: 1,
         yScale: 1
       }
@@ -115,7 +115,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 220, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f47540c9a2047edbb293d1_whitelevel.svg",
+          "https://uploads-ssl.webflow.com/650c7848c9ee37cec2a1349d/65155b7cbeffa99b1007bae5_wow.svg",
         xScale: 1,
         yScale: 1
       }
@@ -132,7 +132,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 220, 56, {
       render: {
         sprite: {
           texture:
-            "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f47540487abf2c397d777f_webflow-green.svg",
+            "https://uploads-ssl.webflow.com/650c7848c9ee37cec2a1349d/65155b7cbeffa99b1007bae5_wow.svg",
           xScale: 1,
           yScale: 1
         }
